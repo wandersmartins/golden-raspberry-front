@@ -41,7 +41,16 @@ Este projeto é o frontend desenvolvido em Angular para o sistema Golden Raspber
    ```bash
    npm install
 
+Obs. se estiver usando NVM para rodar versão mais antiga do angular não esqueça de colocar o "npx" na frente do comando ex: "npx npm install", adicione para rodar o projeto também.
+
 3. Navegue até a raiz da pasta e execute o comando:
 
    ```bash
    ng serve -o
+
+4. Certifique-se de que o projeto backend já esteja rodando conforme as instruções do repositório do backend.
+
+5. Após rodar o projeto de backend API,se necessário, confirme se a base url apresentada é a mesma configurada no arquivo enviroment.ts do projeto angular em:
+
+   ```bash
+    src\environments\environments.ts

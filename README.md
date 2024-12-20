@@ -34,7 +34,7 @@ Este projeto é o frontend desenvolvido em Angular para o sistema Golden Raspber
 1. Clone o repositório:
 
    ```bash
-   git clone <url_do_repositorio>
+   git clone https://github.com/wandersmartins/golden-raspberry-front.git
 
 2. Instale os pacotes:
 

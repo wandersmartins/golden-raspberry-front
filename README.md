@@ -41,7 +41,7 @@ Este projeto é o frontend desenvolvido em Angular para o sistema Golden Raspber
    ```bash
    npm install
 
-Obs. se estiver usando NVM para rodar versão mais antiga do angular não esqueça de colocar o "npx" na frente do comando ex: "npx npm install", adicione para rodar o projeto também.
+Obs. Se estiver usando NVM para rodar versão mais antiga do angular adicione o "npx" na frente dos comandos ex: "npx npm install".
 
 3. Navegue até a raiz da pasta e execute o comando:
 

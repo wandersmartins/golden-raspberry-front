@@ -23,8 +23,9 @@ Este projeto é o frontend desenvolvido em Angular para o sistema Golden Raspber
 
 ## Requisitos
 
-- **Node.js** (versão 16 ou superior).
-- **Angular CLI** (versão 16).
+- **Node.js** (versão 16.20.0).
+- **Angular CLI** (versão 13).
+- **Package Manager** (npm 8.19.4).
 
 ---
 
@@ -34,3 +35,13 @@ Este projeto é o frontend desenvolvido em Angular para o sistema Golden Raspber
 
    ```bash
    git clone <url_do_repositorio>
+
+2. Instale os pacotes:
+
+   ```bash
+   npm install
+
+3. Navegue até a raiz da pasta e execute o comando:
+
+   ```bash
+   ng serve -o
